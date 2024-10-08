@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi there <img width="35" src="./resources/waving.gif"> I'm Killian !</h1>
+<h1 align="center">Hi there, <img width="35" src="./resources/waving.gif">I'm Killian !</h1>
 </div>
 
 ## 🙈 About me
